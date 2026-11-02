@@ -4,8 +4,8 @@
   "appName": "Rapider Returns & Exchanges Management",
   "repository": "",
   "version": "1.0.0",
-  "lastBuildTimestamp": "2026-11-01T11:45:34.386Z",
-  "lastCommit": "5ffedc0",
+  "lastBuildTimestamp": "2026-11-02T09:49:59.547Z",
+  "lastCommit": "29c8a39",
   "summary": {
     "status": "qa_passed",
     "complianceRate": 100,
@@ -18,147 +18,147 @@
     "failedQaPasses": 0,
     "e2eSuitesCount": 0,
     "e2ePassedCount": 0,
-    "lastFullAudit": "2026-11-01T11:45:34.386Z",
+    "lastFullAudit": "2026-11-02T09:49:59.547Z",
     "lastE2ERun": null
   },
   "qaPasses": {
     "pass-01-routing": {
       "name": "pass-01-routing",
       "status": "passed",
-      "lastRun": "2026-11-01T11:45:34.386Z",
+      "lastRun": "2026-11-02T09:49:59.547Z",
       "pagesCovered": 12,
       "issuesFound": 0
     },
     "pass-02-swr": {
       "name": "pass-02-swr",
       "status": "passed",
-      "lastRun": "2026-11-01T11:45:34.386Z",
+      "lastRun": "2026-11-02T09:49:59.547Z",
       "pagesCovered": 12,
       "issuesFound": 0
     },
     "pass-03-data-models": {
       "name": "pass-03-data-models",
       "status": "passed",
-      "lastRun": "2026-11-01T11:45:34.386Z",
+      "lastRun": "2026-11-02T09:49:59.547Z",
       "pagesCovered": 12,
       "issuesFound": 0
     },
     "pass-04-modals": {
       "name": "pass-04-modals",
       "status": "passed",
-      "lastRun": "2026-11-01T11:45:34.386Z",
+      "lastRun": "2026-11-02T09:49:59.547Z",
       "pagesCovered": 12,
       "issuesFound": 0
     },
     "pass-05-drawers": {
       "name": "pass-05-drawers",
       "status": "passed",
-      "lastRun": "2026-11-01T11:45:34.386Z",
+      "lastRun": "2026-11-02T09:49:59.547Z",
       "pagesCovered": 12,
       "issuesFound": 0
     },
     "pass-06-responsive": {
       "name": "pass-06-responsive",
       "status": "passed",
-      "lastRun": "2026-11-01T11:45:34.386Z",
+      "lastRun": "2026-11-02T09:49:59.547Z",
       "pagesCovered": 12,
       "issuesFound": 0
     },
     "pass-07-themes": {
       "name": "pass-07-themes",
       "status": "passed",
-      "lastRun": "2026-11-01T11:45:34.386Z",
+      "lastRun": "2026-11-02T09:49:59.547Z",
       "pagesCovered": 12,
       "issuesFound": 0
     },
     "pass-08-notifications": {
       "name": "pass-08-notifications",
       "status": "passed",
-      "lastRun": "2026-11-01T11:45:34.386Z",
+      "lastRun": "2026-11-02T09:49:59.547Z",
       "pagesCovered": 12,
       "issuesFound": 0
     },
     "pass-09-payloads": {
       "name": "pass-09-payloads",
       "status": "passed",
-      "lastRun": "2026-11-01T11:45:34.386Z",
+      "lastRun": "2026-11-02T09:49:59.547Z",
       "pagesCovered": 12,
       "issuesFound": 0
     },
     "pass-10-components": {
       "name": "pass-10-components",
       "status": "passed",
-      "lastRun": "2026-11-01T11:45:34.386Z",
+      "lastRun": "2026-11-02T09:49:59.547Z",
       "pagesCovered": 12,
       "issuesFound": 0
     },
     "pass-11-e2e-expectations": {
       "name": "pass-11-e2e-expectations",
       "status": "passed",
-      "lastRun": "2026-11-01T11:45:34.386Z",
+      "lastRun": "2026-11-02T09:49:59.547Z",
       "pagesCovered": 12,
       "issuesFound": 0
     },
     "pass-12-asset-externalization": {
       "name": "pass-12-asset-externalization",
       "status": "passed",
-      "lastRun": "2026-11-01T11:45:34.386Z",
+      "lastRun": "2026-11-02T09:49:59.547Z",
       "pagesCovered": 12,
       "issuesFound": 0
     },
     "pass-13-manifest-sync": {
       "name": "pass-13-manifest-sync",
       "status": "passed",
-      "lastRun": "2026-11-01T11:45:34.386Z",
+      "lastRun": "2026-11-02T09:49:59.547Z",
       "pagesCovered": 12,
       "issuesFound": 0
     },
     "pass-14-ui-states": {
       "name": "pass-14-ui-states",
       "status": "passed",
-      "lastRun": "2026-11-01T11:45:34.386Z",
+      "lastRun": "2026-11-02T09:49:59.547Z",
       "pagesCovered": 12,
       "issuesFound": 0
     },
     "pass-15-security": {
       "name": "pass-15-security",
       "status": "passed",
-      "lastRun": "2026-11-01T11:45:34.386Z",
+      "lastRun": "2026-11-02T09:49:59.547Z",
       "pagesCovered": 12,
       "issuesFound": 0
     },
     "pass-16-accessibility": {
       "name": "pass-16-accessibility",
       "status": "passed",
-      "lastRun": "2026-11-01T11:45:34.386Z",
+      "lastRun": "2026-11-02T09:49:59.547Z",
       "pagesCovered": 12,
       "issuesFound": 0
     },
     "pass-17-input-formatting": {
       "name": "pass-17-input-formatting",
       "status": "passed",
-      "lastRun": "2026-11-01T11:45:34.386Z",
+      "lastRun": "2026-11-02T09:49:59.547Z",
       "pagesCovered": 12,
       "issuesFound": 0
     },
     "pass-18-kanban-list-views": {
       "name": "pass-18-kanban-list-views",
       "status": "passed",
-      "lastRun": "2026-11-01T11:45:34.386Z",
+      "lastRun": "2026-11-02T09:49:59.547Z",
       "pagesCovered": 12,
       "issuesFound": 0
     },
     "pass-19-ui-best-practices": {
       "name": "pass-19-ui-best-practices",
       "status": "passed",
-      "lastRun": "2026-11-01T11:45:34.386Z",
+      "lastRun": "2026-11-02T09:49:59.547Z",
       "pagesCovered": 12,
       "issuesFound": 0
     },
     "pass-20-search-filters": {
       "name": "pass-20-search-filters",
       "status": "passed",
-      "lastRun": "2026-11-01T11:45:34.386Z",
+      "lastRun": "2026-11-02T09:49:59.547Z",
       "pagesCovered": 12,
       "issuesFound": 0
     }
@@ -167,410 +167,254 @@
     "pages/dashboard/dashboard.html": {
       "pageName": "Returns & Retention Center",
       "route": "dashboard",
-      "fileHash": "sha256:dad18dd5ac1e1a425392ece710e01a23e92645a65a75ee84c08f85b39caa35cd",
-      "lastModified": "2026-11-01T11:45:34.279Z",
-      "lastTested": "2026-11-01T11:45:34.386Z",
+      "fileHash": "sha256:4ec86d9359084977823f4360db29040c8e4183ff89d3d43342ab9462a1d822c2",
+      "lastModified": "2026-11-02T09:49:59.326Z",
+      "lastTested": "2026-11-02T09:49:59.547Z",
       "status": "passed",
       "metrics": {
-        "buttonsTotal": 8,
-        "buttonsWithActions": 8,
+        "buttonsTotal": 6,
+        "buttonsWithActions": 6,
         "deadButtons": 0,
-        "linksTotal": 12,
-        "linksValid": 12,
+        "linksTotal": 14,
+        "linksValid": 14,
         "nativeAlerts": 0,
         "contrastCompliant": true,
-        "swrCalls": 2,
-        "modalsTotal": 1
+        "swrCalls": 0,
+        "modalsTotal": 0
       },
       "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
+      "warnings": []
     },
     "pages/rmas/rmas.html": {
       "pageName": "RMA & Exchange Queue",
       "route": "rmas",
-      "fileHash": "sha256:6ca64f4ba5f60aae310fed0664e9b8fbbc89dcc41da081e2876dc734af63bb9d",
-      "lastModified": "2026-11-01T11:45:34.279Z",
-      "lastTested": "2026-11-01T11:45:34.386Z",
+      "fileHash": "sha256:cc316c5860d4aba8c9fcbe3d0f572d12c78d6b38c9e15ca198cce3deaefffbc4",
+      "lastModified": "2026-11-02T09:49:59.326Z",
+      "lastTested": "2026-11-02T09:49:59.547Z",
       "status": "passed",
       "metrics": {
-        "buttonsTotal": 8,
-        "buttonsWithActions": 8,
+        "buttonsTotal": 6,
+        "buttonsWithActions": 6,
         "deadButtons": 0,
-        "linksTotal": 12,
-        "linksValid": 12,
+        "linksTotal": 14,
+        "linksValid": 14,
         "nativeAlerts": 0,
         "contrastCompliant": true,
-        "swrCalls": 2,
-        "modalsTotal": 1
+        "swrCalls": 0,
+        "modalsTotal": 0
       },
       "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
+      "warnings": []
     },
     "pages/settlements-and-credits/settlements-and-credits.html": {
       "pageName": "Exchanges, Credits & Refunds",
       "route": "settlements-and-credits",
-      "fileHash": "sha256:29a25556f847ad057957e0623f7a48af57b142b2cd72b3c5647100c3fa97645c",
-      "lastModified": "2026-11-01T11:45:34.279Z",
-      "lastTested": "2026-11-01T11:45:34.386Z",
+      "fileHash": "sha256:6e6c6b45b4efc1f32d2d1b4a5d29936e78ff41215ad9423ea9837147bc17faaf",
+      "lastModified": "2026-11-02T09:49:59.328Z",
+      "lastTested": "2026-11-02T09:49:59.547Z",
       "status": "passed",
       "metrics": {
-        "buttonsTotal": 8,
-        "buttonsWithActions": 8,
-        "deadButtons": 0,
-        "linksTotal": 12,
-        "linksValid": 12,
-        "nativeAlerts": 0,
-        "contrastCompliant": true,
-        "swrCalls": 2,
-        "modalsTotal": 1
-      },
-      "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
-    },
-    "pages/dock-inspection/dock-inspection.html": {
-      "pageName": "Dock Receiving & Grading Bench",
-      "route": "dock-inspection",
-      "fileHash": "sha256:a81ccd49a0d788ada9e6098a65f2999fe594da67a10b28ce28289d555354f1cd",
-      "lastModified": "2026-11-01T11:45:34.279Z",
-      "lastTested": "2026-11-01T11:45:34.386Z",
-      "status": "passed",
-      "metrics": {
-        "buttonsTotal": 8,
-        "buttonsWithActions": 8,
-        "deadButtons": 0,
-        "linksTotal": 12,
-        "linksValid": 12,
-        "nativeAlerts": 0,
-        "contrastCompliant": true,
-        "swrCalls": 2,
-        "modalsTotal": 1
-      },
-      "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
-    },
-    "pages/boris-intake/boris-intake.html": {
-      "pageName": "In-Store BORIS Drop-Off Desk",
-      "route": "boris-intake",
-      "fileHash": "sha256:00a70bdae540d31608a49581914ab193d6aede0aa1b5784f03c4e4d39f7b32e6",
-      "lastModified": "2026-11-01T11:45:34.279Z",
-      "lastTested": "2026-11-01T11:45:34.386Z",
-      "status": "passed",
-      "metrics": {
-        "buttonsTotal": 8,
-        "buttonsWithActions": 8,
-        "deadButtons": 0,
-        "linksTotal": 12,
-        "linksValid": 12,
-        "nativeAlerts": 0,
-        "contrastCompliant": true,
-        "swrCalls": 2,
-        "modalsTotal": 1
-      },
-      "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
-    },
-    "pages/fraud-and-claims/fraud-and-claims.html": {
-      "pageName": "Abuse Quarantine & RTV Claims",
-      "route": "fraud-and-claims",
-      "fileHash": "sha256:8bfb5c6dfca9c67ac65c0a11fb11e02f51f053b46a79b57f76fdb90653c4d386",
-      "lastModified": "2026-11-01T11:45:34.280Z",
-      "lastTested": "2026-11-01T11:45:34.386Z",
-      "status": "passed",
-      "metrics": {
-        "buttonsTotal": 8,
-        "buttonsWithActions": 8,
-        "deadButtons": 0,
-        "linksTotal": 12,
-        "linksValid": 12,
-        "nativeAlerts": 0,
-        "contrastCompliant": true,
-        "swrCalls": 2,
-        "modalsTotal": 1
-      },
-      "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
-    },
-    "pages/policies/policies.html": {
-      "pageName": "Return Windows, Fees & Keep-It",
-      "route": "policies",
-      "fileHash": "sha256:011b100035ec53b8fc832a0b30cb2bff775759531ece29a61503436e98b49481",
-      "lastModified": "2026-11-01T11:45:34.280Z",
-      "lastTested": "2026-11-01T11:45:34.386Z",
-      "status": "passed",
-      "metrics": {
-        "buttonsTotal": 8,
-        "buttonsWithActions": 8,
-        "deadButtons": 0,
-        "linksTotal": 12,
-        "linksValid": 12,
-        "nativeAlerts": 0,
-        "contrastCompliant": true,
-        "swrCalls": 2,
-        "modalsTotal": 1
-      },
-      "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
-    },
-    "pages/portal-config/portal-config.html": {
-      "pageName": "Self-Serve & Gift Portal Studio",
-      "route": "portal-config",
-      "fileHash": "sha256:3d874344a8e57b0fbd207e9845593738df457dd6d0b36e2fb44f97756a0829b2",
-      "lastModified": "2026-11-01T11:45:34.280Z",
-      "lastTested": "2026-11-01T11:45:34.386Z",
-      "status": "passed",
-      "metrics": {
-        "buttonsTotal": 8,
-        "buttonsWithActions": 8,
-        "deadButtons": 0,
-        "linksTotal": 12,
-        "linksValid": 12,
-        "nativeAlerts": 0,
-        "contrastCompliant": true,
-        "swrCalls": 2,
-        "modalsTotal": 1
-      },
-      "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
-    },
-    "pages/sku-return-analytics/sku-return-analytics.html": {
-      "pageName": "SKU Return & Sizing Intelligence",
-      "route": "sku-return-analytics",
-      "fileHash": "sha256:e2abe9203bc43683e6ffab927a33fb4cb01083751ff337f006f2bd0d1aefad05",
-      "lastModified": "2026-11-01T11:45:34.280Z",
-      "lastTested": "2026-11-01T11:45:34.386Z",
-      "status": "passed",
-      "metrics": {
-        "buttonsTotal": 8,
-        "buttonsWithActions": 8,
-        "deadButtons": 0,
-        "linksTotal": 12,
-        "linksValid": 12,
-        "nativeAlerts": 0,
-        "contrastCompliant": true,
-        "swrCalls": 2,
-        "modalsTotal": 1
-      },
-      "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
-    },
-    "pages/rma-detail/rma-detail.html": {
-      "pageName": "RMA, Line & Tracking Inspector",
-      "route": "rma-detail",
-      "fileHash": "sha256:e4024b8746160cbbde8f5ada458da781225ccd7fb90fc6ee316dc3baf9a375ed",
-      "lastModified": "2026-11-01T11:45:34.280Z",
-      "lastTested": "2026-11-01T11:45:34.386Z",
-      "status": "passed",
-      "metrics": {
-        "buttonsTotal": 9,
-        "buttonsWithActions": 9,
-        "deadButtons": 0,
-        "linksTotal": 14,
-        "linksValid": 14,
-        "nativeAlerts": 0,
-        "contrastCompliant": true,
-        "swrCalls": 0,
-        "modalsTotal": 1
-      },
-      "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
-    },
-    "pages/inspection-detail/inspection-detail.html": {
-      "pageName": "Condition Grading & Putaway View",
-      "route": "inspection-detail",
-      "fileHash": "sha256:bd52906843151d52eb80bd0be9346b75abe7627c655410225d6a9d8761073e7f",
-      "lastModified": "2026-11-01T11:45:34.280Z",
-      "lastTested": "2026-11-01T11:45:34.386Z",
-      "status": "passed",
-      "metrics": {
-        "buttonsTotal": 9,
-        "buttonsWithActions": 9,
-        "deadButtons": 0,
-        "linksTotal": 14,
-        "linksValid": 14,
-        "nativeAlerts": 0,
-        "contrastCompliant": true,
-        "swrCalls": 0,
-        "modalsTotal": 1
-      },
-      "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
-    },
-    "pages/settlement-detail/settlement-detail.html": {
-      "pageName": "Financial Pro-Rata & Hold Detail",
-      "route": "settlement-detail",
-      "fileHash": "sha256:a673bc9f831abd7cc3d8626289bd1c5bac9c59a0c3c41693366f872ac2676f51",
-      "lastModified": "2026-11-01T11:45:34.280Z",
-      "lastTested": "2026-11-01T11:45:34.386Z",
-      "status": "passed",
-      "metrics": {
-        "buttonsTotal": 7,
-        "buttonsWithActions": 7,
+        "buttonsTotal": 6,
+        "buttonsWithActions": 6,
         "deadButtons": 0,
         "linksTotal": 14,
         "linksValid": 14,
         "nativeAlerts": 0,
         "contrastCompliant": true,
         "swrCalls": 1,
-        "modalsTotal": 1
+        "modalsTotal": 0
       },
       "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
+      "warnings": []
+    },
+    "pages/dock-inspection/dock-inspection.html": {
+      "pageName": "Dock Receiving & Grading Bench",
+      "route": "dock-inspection",
+      "fileHash": "sha256:8a422cee3c9e28bb650b2e2e3747327ad28b619114588e87b1f85e3097280d7e",
+      "lastModified": "2026-11-02T09:49:59.329Z",
+      "lastTested": "2026-11-02T09:49:59.547Z",
+      "status": "passed",
+      "metrics": {
+        "buttonsTotal": 6,
+        "buttonsWithActions": 6,
+        "deadButtons": 0,
+        "linksTotal": 14,
+        "linksValid": 14,
+        "nativeAlerts": 0,
+        "contrastCompliant": true,
+        "swrCalls": 1,
+        "modalsTotal": 0
+      },
+      "issues": [],
+      "warnings": []
+    },
+    "pages/boris-intake/boris-intake.html": {
+      "pageName": "In-Store BORIS Drop-Off Desk",
+      "route": "boris-intake",
+      "fileHash": "sha256:62a56692b016b00767493c2b9ccf543ebc58a0f620ba2e14f78c78a8ef037d35",
+      "lastModified": "2026-11-02T09:49:59.333Z",
+      "lastTested": "2026-11-02T09:49:59.547Z",
+      "status": "passed",
+      "metrics": {
+        "buttonsTotal": 6,
+        "buttonsWithActions": 6,
+        "deadButtons": 0,
+        "linksTotal": 14,
+        "linksValid": 14,
+        "nativeAlerts": 0,
+        "contrastCompliant": true,
+        "swrCalls": 1,
+        "modalsTotal": 0
+      },
+      "issues": [],
+      "warnings": []
+    },
+    "pages/fraud-and-claims/fraud-and-claims.html": {
+      "pageName": "Abuse Quarantine & RTV Claims",
+      "route": "fraud-and-claims",
+      "fileHash": "sha256:f6a15e91bb351f8c5268e422d587df4f5f13563c854ef2be7b002bc211152b4e",
+      "lastModified": "2026-11-02T09:49:59.340Z",
+      "lastTested": "2026-11-02T09:49:59.547Z",
+      "status": "passed",
+      "metrics": {
+        "buttonsTotal": 6,
+        "buttonsWithActions": 6,
+        "deadButtons": 0,
+        "linksTotal": 14,
+        "linksValid": 14,
+        "nativeAlerts": 0,
+        "contrastCompliant": true,
+        "swrCalls": 1,
+        "modalsTotal": 0
+      },
+      "issues": [],
+      "warnings": []
+    },
+    "pages/policies/policies.html": {
+      "pageName": "Return Windows, Fees & Keep-It",
+      "route": "policies",
+      "fileHash": "sha256:92ddbd7a74a735719bcf16627b3d96e9aba4198cb9bdb296174d104a83ed03e6",
+      "lastModified": "2026-11-02T09:49:59.342Z",
+      "lastTested": "2026-11-02T09:49:59.547Z",
+      "status": "passed",
+      "metrics": {
+        "buttonsTotal": 6,
+        "buttonsWithActions": 6,
+        "deadButtons": 0,
+        "linksTotal": 14,
+        "linksValid": 14,
+        "nativeAlerts": 0,
+        "contrastCompliant": true,
+        "swrCalls": 1,
+        "modalsTotal": 0
+      },
+      "issues": [],
+      "warnings": []
+    },
+    "pages/portal-config/portal-config.html": {
+      "pageName": "Self-Serve & Gift Portal Studio",
+      "route": "portal-config",
+      "fileHash": "sha256:49aa836abe5235c596e1e05519d7a83a0fd8c5efe384a862419b0986b5d34165",
+      "lastModified": "2026-11-02T09:49:59.344Z",
+      "lastTested": "2026-11-02T09:49:59.547Z",
+      "status": "passed",
+      "metrics": {
+        "buttonsTotal": 6,
+        "buttonsWithActions": 6,
+        "deadButtons": 0,
+        "linksTotal": 14,
+        "linksValid": 14,
+        "nativeAlerts": 0,
+        "contrastCompliant": true,
+        "swrCalls": 1,
+        "modalsTotal": 0
+      },
+      "issues": [],
+      "warnings": []
+    },
+    "pages/sku-return-analytics/sku-return-analytics.html": {
+      "pageName": "SKU Return & Sizing Intelligence",
+      "route": "sku-return-analytics",
+      "fileHash": "sha256:2057a41239a0d758fc7211363d8079e7a555df386aeae478afde84bf4649d399",
+      "lastModified": "2026-11-02T09:49:59.353Z",
+      "lastTested": "2026-11-02T09:49:59.547Z",
+      "status": "passed",
+      "metrics": {
+        "buttonsTotal": 6,
+        "buttonsWithActions": 6,
+        "deadButtons": 0,
+        "linksTotal": 14,
+        "linksValid": 14,
+        "nativeAlerts": 0,
+        "contrastCompliant": true,
+        "swrCalls": 1,
+        "modalsTotal": 0
+      },
+      "issues": [],
+      "warnings": []
+    },
+    "pages/rma-detail/rma-detail.html": {
+      "pageName": "RMA, Line & Tracking Inspector",
+      "route": "rma-detail",
+      "fileHash": "sha256:d8ed8b9b70d0eec1deeef54c33d897695e43c8808bb82c8eaa6645a13468d33c",
+      "lastModified": "2026-11-02T09:49:59.353Z",
+      "lastTested": "2026-11-02T09:49:59.547Z",
+      "status": "passed",
+      "metrics": {
+        "buttonsTotal": 5,
+        "buttonsWithActions": 5,
+        "deadButtons": 0,
+        "linksTotal": 15,
+        "linksValid": 15,
+        "nativeAlerts": 0,
+        "contrastCompliant": true,
+        "swrCalls": 0,
+        "modalsTotal": 0
+      },
+      "issues": [],
+      "warnings": []
+    },
+    "pages/inspection-detail/inspection-detail.html": {
+      "pageName": "Condition Grading & Putaway View",
+      "route": "inspection-detail",
+      "fileHash": "sha256:eb78078442db249c66a90188811fc1a2ddc69972d642210ead25db25709418f3",
+      "lastModified": "2026-11-02T09:49:59.354Z",
+      "lastTested": "2026-11-02T09:49:59.547Z",
+      "status": "passed",
+      "metrics": {
+        "buttonsTotal": 5,
+        "buttonsWithActions": 5,
+        "deadButtons": 0,
+        "linksTotal": 15,
+        "linksValid": 15,
+        "nativeAlerts": 0,
+        "contrastCompliant": true,
+        "swrCalls": 0,
+        "modalsTotal": 0
+      },
+      "issues": [],
+      "warnings": []
+    },
+    "pages/settlement-detail/settlement-detail.html": {
+      "pageName": "Financial Pro-Rata & Hold Detail",
+      "route": "settlement-detail",
+      "fileHash": "sha256:0e2ae44c8b23badc14a5c9031d47d88d833246839d94c2bcfaad30e05584f267",
+      "lastModified": "2026-11-02T09:49:59.354Z",
+      "lastTested": "2026-11-02T09:49:59.547Z",
+      "status": "passed",
+      "metrics": {
+        "buttonsTotal": 5,
+        "buttonsWithActions": 5,
+        "deadButtons": 0,
+        "linksTotal": 15,
+        "linksValid": 15,
+        "nativeAlerts": 0,
+        "contrastCompliant": true,
+        "swrCalls": 0,
+        "modalsTotal": 0
+      },
+      "issues": [],
+      "warnings": []
     }
   },
   "e2eSuites": {
@@ -580,6 +424,16 @@
     "suites": []
   },
   "history": [
+    {
+      "timestamp": "2026-11-02T09:49:59.547Z",
+      "action": "qa_full_audit",
+      "commit": "29c8a39",
+      "complianceRate": 100,
+      "pagesAudited": 12,
+      "status": "passed",
+      "agent": "Antigravity",
+      "details": "12/12 pages passed. Completed 20/20 QA passes."
+    },
     {
       "timestamp": "2026-11-01T11:45:34.386Z",
       "action": "qa_full_audit",
